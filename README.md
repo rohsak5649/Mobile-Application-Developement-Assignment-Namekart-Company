@@ -1,14 +1,18 @@
-*****To-Do List Mobile App*****
+*To-Do List Mobile App*
+
 **Project Overview**
+
 This project is a simple To-Do List mobile application developed as part of a Mobile Application Development assignment. The app allows users to add, edit, and delete tasks, mark tasks as completed, and set deadlines. The app is designed to work fully offline, with all data stored locally on the device.
 
 **Features**
+
 Add, Edit, and Delete Tasks: Users can create new tasks, edit existing ones, and delete tasks they no longer need.
 Task Completion: Users can mark tasks as completed, helping them track their progress.
 Set Deadlines: Each task can have a deadline, and tasks are sorted based on these deadlines.
 Offline Functionality: All data is stored locally on the device, ensuring the app works even without an internet connection.
 
 **Technology Stack**
+
 Language: Swift
 Framework: SwiftUI
 Local Storage: UserDefaults for saving and loading tasks
